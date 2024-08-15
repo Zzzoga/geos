@@ -1,0 +1,42 @@
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/Inter/Inter-Regular.otf");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/Inter/Inter-Medium.otf");
+	font-style: normal;
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Euclid";
+	src: url("../fonts/Euclid/EuclidCircularB-Regular.woff");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Euclid";
+	src: url("../fonts/Euclid/EuclidCircularB-Medium.woff");
+	font-style: normal;
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Suisse";
+	src: url("../fonts/Suisse/SuisseIntl-Regular.otf");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Suisse";
+	src: url("../fonts/Suisse/SuisseIntl-Medium.otf");
+	font-style: normal;
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Suisse";
+	src: url("../fonts/Suisse/SuisseIntl-SemiBold.otf");
+	font-style: normal;
+	font-weight: 600;
+}
